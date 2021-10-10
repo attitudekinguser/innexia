@@ -1,6 +1,8 @@
 <h1 align="center"><b> ⚡ SWEET CUTIE ⚡ </b></h1>
 
-# [!(https://te.legra.ph/file/6a6accf5c01da05ccedb0.jpg)]
+<p align="center">
+  <img src="https://te.legra.ph/file/6a6accf5c01da05ccedb0.jpg">
+</p>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
