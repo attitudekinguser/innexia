@@ -1,4 +1,4 @@
-<h1 align="center"><b> ⚡ Innexia ⚡ </b></h1>
+<h1 align="center"><b> ⚡ SWEET CUTIE ⚡ </b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
