@@ -1,5 +1,7 @@
 <h1 align="center"><b> ⚡ SWEET CUTIE ⚡ </b></h1>
 
+# [!(https://te.legra.ph/file/6a6accf5c01da05ccedb0.jpg)]
+
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
@@ -8,14 +10,14 @@
 
 <p align="center"><a href="https://t.me/innexiaBot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
 
-## Available on Telegram as [@Innexia](https://t.me/innexiaBot)
+## Available on Telegram as [SWEET CUTIE](https://t.me/Sweet_cutie_robot)
 
 # ❤️ Support
-<a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/DeCodeSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="HTTPS://T.ME/SWEETKINGDOM1"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="Https://t.me/ishq_wala_love"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
-> ⭐️ Thanks to everyone who starred Innexia, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone who starred SWEET CUTIE, That is the greatest pleasure we have !
 
 ## Click The Image And Deploy Your Bot
 
