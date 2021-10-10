@@ -72,32 +72,32 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-INNEXIA_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
+INNEXIA_IMG = "https://te.legra.ph/file/6a6accf5c01da05ccedb0.jpg"
 
 PM_START_TEXT = """
-`Heya` 🤗 `I am` **INNEXIA** `your group super bot`
+`Heya` 🤗 `I am` **SWEET CUTIE** `your group super bot`
 `I am very fast and  more efficient  I provide awesome  features which a owner will look for  filter ,warn system,note keeping system flood!`
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="❔Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ ❔", callback_data="help_back"),
+            text="❔🅲🅾🅼🅼🅰🅽🅳❔", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="🔥 Sᴏᴜʀᴄᴇ", url=f"https://github.com/DarkCybers/innexia"),
+        InlineKeyboardButton(text="🔥🅾🆆🅽🅴🆁", url=f"Https://t.me/Alone_Shaurya_king"),
         InlineKeyboardButton(
-            text="Vᴄ Pʟᴀʏᴇʀ 🎶", url=f"https://telegra.ph/Innexia-Vc-Player-08-19"
+            text="🆅🅲 🅿🅻🅰🆈🅴🆁🎶", url=f"https://te.legra.ph/file/8290d8dd2f5a2b6efb8b3.jpg"
         ),
     ],
     [
-        InlineKeyboardButton(text="📜 Aʙᴏᴜᴛ", callback_data="innexia_"),
+        InlineKeyboardButton(text="🆂🆄🅿🅿🅾🆁🆃", callback_data="https://t.me/sweetkingdom1"),
         InlineKeyboardButton(
-            text="Bᴀꜱɪᴄ Hᴇʟᴘ 👮", callback_data="innexia_basichelp"
+            text="🅲🅷🅰🅽🅽🅴🅻", callback_data="Https://t.me/ishq_wala_love"
         ),
     ],
     [
-        InlineKeyboardButton(text="💕 Sᴜᴍᴍᴏɴ Mᴇ 💕", url="http://t.me/Innexiabot?startgroup=true"),
+        InlineKeyboardButton(text="🔥🅰🅳🅳 🅼🅴🔥", url="http://t.me/Sweet_cutie_robot?startgroup=true"),
     ],
 ]
 
