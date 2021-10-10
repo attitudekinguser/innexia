@@ -1,4 +1,4 @@
-<h1 align="center"><b> ⚡ SWEET CUTIE ⚡ </b></h1>
+<h1 align="center"><b> ⚡SWEET CUTIE⚡ </b></h1>
 
 <p align="center">
   <img src="https://te.legra.ph/file/6a6accf5c01da05ccedb0.jpg">
@@ -14,9 +14,9 @@
 
 ## Available on Telegram as [SWEET CUTIE](https://t.me/Sweet_cutie_robot)
 
-# ❤️ Support
-<a href="HTTPS://T.ME/SWEETKINGDOM1"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="Https://t.me/ishq_wala_love"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+# 💙 Support
+<a href="HTTPS://T.ME/SWEETKINGDOM1"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-skyblue.svg?logo=Telegram"></a>
+<a href="Https://t.me/ishq_wala_love"><img src="https://img.shields.io/badge/Join-Telegram%20Group-purple.svg?logo=telegram"></a>
 
 
 > ⭐️ Thanks to everyone who starred SWEET CUTIE, That is the greatest pleasure we have !
@@ -26,30 +26,10 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/innexia"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/innexia"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-## ✨ Deploying to Local Machine ✨
 
-```console
-$ git clone https://github.com/TeamDeeCode/innexia
-$ cd innexiaBot
-$ pip3 install -U -r requirements.txt
-$ cp sample_config.py config.py
-```
- <h3 align="center"> 
-    Edit <b>config.py</b> with your own values
-</h3>
 
-## ✨ Using Docker ✨
 
-```console
-$ git clone https://github.com/TeamDeeCode/innexia
-$ cd innexiaBot
-$ cp sample_config.env config.env
-```
-
-<h3 align="center"> 
-    Edit <b> config.env </b> with your own values
-</h3>
 
 
